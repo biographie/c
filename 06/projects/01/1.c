@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#define  dfd
 int main(void) {
   float max;
   float n;
